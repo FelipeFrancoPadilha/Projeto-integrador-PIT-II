@@ -1,6 +1,6 @@
-# Dicionário de Dados - Cupcake App v2.0
+# Dicionário de Dados - Cupcake App
 
-Este documento detalha a estrutura do banco de dados relacional projetado para a aplicação Cupcake App, conforme a especificação da Versão 2.0.
+Este documento detalha a estrutura do banco de dados relacional projetado para a aplicação Cupcake App
 
 ---
 
